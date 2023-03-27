@@ -23,7 +23,7 @@ The in-class puzzles and Piconot helped me understand how to implement new datat
 _How do you plan to set aside time outside of class, to work on the project? Are there
 intermediate milestones that you can create, to help you make consistent progress?_
 
-Have a set time to work on my DSL. Maybe Tuesday 11am-2 and Saturday 9am-12. If that is insufficient, I can always alot more time. The project has several smaller "features" to be implemented, and these can be intermediate milestones. I would like to create a new datatype, one new loop structure and few features and functions that can be added to these. 
+Have a set time to work on my DSL. Maybe Tuesday 11am-2 and Saturday 9am-12. If that is insufficient, I can always alot more time. The project has several smaller "features" to be implemented, and these can be intermediate milestones. I would like to create a new datatype, one new loop structure and few features and functions that can be added to these. Each of these steps can be a milestone.
 
 ## Teamwork plan
 
@@ -37,12 +37,21 @@ progress?_
 _What will you do to make sure that you can give consistent and actionable feedback to
 other people in the class?_
 
+Understand what the goals of their project are, why a DSL is the right match for their project. Once I know this well, I can consistently read their updates and see how this lines up with the goals, and what changes that may need to be made.
+
 ## Success
 
 _At the end of the semester, what would you be proud to show or tell someone about your
 project?_
 
+
+
 ## Assessment
 
 _Looking over your responses to the previous questions, what would you consider to be an
 "A-" for your project? What would you consider to be an "A"?_
+
+
+A :  Everything working, and well implemented. Just working is not enough though, because the overall design is important too. Doing some research and trying different design styles before chosing one would be important.
+A- :  At least some fluency and DSL-y features implemeneted. The design should not be overly confusing.
+
